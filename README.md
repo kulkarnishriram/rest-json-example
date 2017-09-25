@@ -1,4 +1,4 @@
-# rest-example
+# rest-json-example
 A sample Java application which stores data in an in-memory database that serves it back in a JSON format
 
 # How to Run
